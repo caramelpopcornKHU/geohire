@@ -20,6 +20,32 @@
 - 🔔 **알림 시스템** — 지원 접수·상태 변경 시 자동 알림, 미읽음 뱃지
 - 👤 **프로필 관리** — 구직자 이력서·기술스택 관리
 
+## 스크린샷
+
+### 🏠 메인 페이지
+
+![메인 페이지](sourceimage/mainvue.png)
+
+### 🔍 채용공고 검색
+
+![채용공고 검색](sourceimage/searchvue.png)
+
+### 📄 채용공고 상세
+
+![채용공고 상세](sourceimage/hiringinfo.png)
+
+### 📝 새 채용공고 등록
+
+![새 채용공고 등록](sourceimage/newhiring.png)
+
+### 📋 지원서 상세
+
+![지원서 상세](sourceimage/companyform.png)
+
+### 🗄️ ERD (데이터베이스 구조)
+
+![ERD](sourceimage/eerDiagram.png)
+
 ## 프로젝트 구조
 
 ```
